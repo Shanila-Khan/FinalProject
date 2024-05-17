@@ -369,7 +369,6 @@
     left: 0;
     right: 0;
     bottom: 0;
-    /* Light overlay */
     z-index: 1;
 }
 
@@ -396,3 +395,5 @@
     font-size: 0.875rem;
     padding: 0.5rem 1rem; /* Smaller button padding */
 }
+
+
