@@ -354,7 +354,7 @@
     position: relative;
     width: 100%;
     height: 100vh; /* Full viewport height */
-    background-image: url('C:/Users/HP/Desktop/My Work/falicia banner.jpg'); /* Replace with your image path */
+    background-image: url('C:/Users/HP/Desktop/WebProject2/drivin-1.0.0/img/falicia banner.jpg'); /* Replace with your image path */
     background-size: cover;
     background-position: center;
     display: flex;
