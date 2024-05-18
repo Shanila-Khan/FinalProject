@@ -396,4 +396,42 @@
     padding: 0.5rem 1rem; /* Smaller button padding */
 }
 
+:root {
+    --primary-gradient: linear-gradient(to right, #ffcccb, #87ceeb); /* Light pink to light blue */
+    --grey: #6c757d; /* Grey color for buttons */
+    --light-grey: #adb5bd; /* Light grey color for hover effect */
+}
 
+.footer,
+.copyright {
+    background: var(--primary-gradient);
+    color: #fff; /* Ensure the text color is light for readability */
+}
+
+.btn-primary,
+.btn-square.btn-outline-light {
+    background-color: var(--grey);
+    border-color: var(--grey);
+    color: #fff;
+}
+
+.btn-primary:hover,
+.btn-square.btn-outline-light:hover {
+    background-color: var(--light-grey);
+    border-color: var(--light-grey);
+    color: #fff;
+}
+
+.btn-square {
+    background-color: transparent; /* Ensure the square buttons are initially transparent */
+}
+
+.btn-square.btn-outline-light {
+    border: 2px solid #fff; /* Define the border for square buttons */
+}
+
+.btn-square.btn-outline-light:hover {
+    background-color: var(--light-grey);
+    border-color: var(--light-grey);
+    color: #fff;
+}
