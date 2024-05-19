@@ -438,6 +438,7 @@
             -webkit-background-clip: text;
             color: transparent;
         }
+<<<<<<< HEAD
        .image-container {
             position: relative;
             overflow: hidden;
@@ -472,3 +473,6 @@
 h2 .text-grey {
     color: darkgrey;
 }
+=======
+       
+>>>>>>> 2a4f6e8f474e6b244cd2d56654e47a934134602d
