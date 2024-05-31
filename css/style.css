@@ -172,9 +172,10 @@
 /*** Courses ***/
 .courses {
     min-height: 100vh;
-    background: linear-gradient(rgba(255, 255, 255, .9), rgba(255, 255, 255, .9)), url(../img/carousel-1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(255, 255, 255, .9), rgba(255, 255, 255, .9)), url(https://felicia.day/wp-content/uploads/2023/11/FELICIADAY6530-PROOF.jpg) center center no-repeat;
     background-attachment: fixed;
     background-size: cover;
+        
 }
 
 .courses-item .courses-overlay {
@@ -430,7 +431,7 @@
             -webkit-background-clip: text;
             color: transparent;
         }
-<<<<<<< HEAD
+<<<<<< HEAD
        .image-container {
             position: relative;
             overflow: hidden;
@@ -465,6 +466,7 @@
 h2 .text-grey {
     color: darkgrey;
 }
+<<<<<<< HEAD
 /* Ensure the container takes full viewport height and centers content */
 .container-fluid {
     display: flex;
@@ -481,3 +483,5 @@ h2 .text-grey {
     padding: 40px;
 }
 
+=======
+>>>>>>> e37ed3a86b9a59c42c72842021c13d419706e46b
