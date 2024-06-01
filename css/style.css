@@ -466,3 +466,22 @@
 h2 .text-grey {
     color: darkgrey;
 }
+<<<<<<< HEAD
+/* Ensure the container takes full viewport height and centers content */
+.container-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Background color for the form card */
+.bg-secondary {
+    background-color: #757575;
+    color: white;
+    border-radius: 8px;
+    padding: 40px;
+}
+
+=======
+>>>>>>> e37ed3a86b9a59c42c72842021c13d419706e46b
